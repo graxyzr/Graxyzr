@@ -9,8 +9,6 @@
 
 ##
 
-<br>
-
 <div>
   <h1>ʟᴇᴀʀɴɪɴɢ</h1>
   <img align="center" alt="Gray-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
