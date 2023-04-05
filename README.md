@@ -1,5 +1,5 @@
-- 🎉 16yo
-- 🖥️ IFRS ▸ Informática para Internet <2/4>
+- Front-End Lover!
+- IFRS ▸ Informática para Internet <2/4>
 
 <div style="display: inline_block"><br>
   <h1>ʟᴀɴɢᴜᴀɢᴇs:</h1>
