@@ -7,7 +7,8 @@
   <img align="center" alt="Gray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+<br>
+<br>
 
 <div>
   <h1>ʟᴇᴀʀɴɪɴɢ</h1>
