@@ -1,11 +1,14 @@
 <div>
   
   <h1 align="center">
-    - Front-End Lover!
+    - 🔣 Front-End Lover!
     <br>
     <br>
-    - IFRS - Informática para Internet <2/4>
-    <img src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-branco-fundo-preto-Horizontal1.png" width="450">
+    - 🖥️ IFRS - Informática para Internet <2/4>
+    <br>
+    <br>
+    <img src="https://64.media.tumblr.com/e668a02e08a8b102a29c7f8b6348223d/tumblr_pmqfty0ygl1wt9kcn_500.gif" width="400">
+    <br>
   </h1>
   
 </div>
