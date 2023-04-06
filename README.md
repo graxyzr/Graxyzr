@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    - Front-End Lover!
+    - IFRS - Informática p/ Internet <2/4>
   </h1>
   
   <p align="center">
