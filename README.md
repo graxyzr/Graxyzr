@@ -2,6 +2,8 @@
   
   <h1 align="center">
     - Front-End Lover!
+    <br>
+    <br>
     - IFRS - Informática p/ Internet <2/4>
   </h1>
   
