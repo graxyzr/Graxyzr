@@ -1,9 +1,6 @@
 <div>
   
   <h2 align="center">
- IFRS ▸ Informática para Internet <2/4>
-    <br>
-    <br>
     <img src="https://64.media.tumblr.com/e50b21ec37f669664f00b9895403cb7b/tumblr_ocxy9mpiUT1tqou9go1_500.gif" width="400">
     <br>
     <br>
