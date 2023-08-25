@@ -12,8 +12,8 @@
   
   <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=graxyzr&show_icons=true&count_private=true&hide_border=true&title_color=53395B&icon_color=53395B&text_color=c9d1d9&bg_color=0d1117" alt="Graxyzr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=53395B&text_color=53395B&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=graxyzr&show_icons=true&count_private=true&hide_border=true&title_color=EA514C&icon_color=EA514C&text_color=c9d1d9&bg_color=0d1117" alt="Graxyzr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=EA514C&text_color=EA514C&bg_color=0d1117" />
   
   </div>
 
@@ -27,7 +27,7 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53395B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA514C&height=120&section=footer"/>
 
 <div align="center">
 
