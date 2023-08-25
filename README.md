@@ -2,13 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EA514C&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<2/4>)](https://git.io/typing-svg)
   
-<div align="center">
-
-  <img align="center" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  
-  <br>
-  
-  </div>
+<br>
   
   <div align="center">
   
