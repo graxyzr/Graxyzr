@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA514C&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B241F&height=120&section=header"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EA514C&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<2/4>)](https://git.io/typing-svg)
   
@@ -6,8 +6,8 @@
   
   <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=graxyzr&show_icons=true&count_private=true&hide_border=true&title_color=EA514C&icon_color=EA514C&text_color=c9d1d9&bg_color=0d1117" alt="Graxyzr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=EA514C&text_color=EA514C&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=graxyzr&show_icons=true&count_private=true&hide_border=true&title_color=8B241F&icon_color=8B241F&text_color=c9d1d9&bg_color=0d1117" alt="Graxyzr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=8B241F&text_color=8B241F&bg_color=0d1117" />
   
   </div>
 
@@ -21,7 +21,7 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA514C&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B241F&height=120&section=footer"/>
 
 <div align="center">
 
