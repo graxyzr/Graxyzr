@@ -13,13 +13,15 @@
 
 <div align="center" valign="top"><br>
   
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" src"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/HTML5-CD3213?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/CSS3-CD3213?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-CD3213?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" src"https://img.shields.io/badge/C-CD3213?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-CD3213?style=for-the-badge&logo=postgresql&logoColor=white">
   
 </div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=graxyzr&bg_color=0d1117&color=CD3213&line=CD3213&point=CD3213&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD3213&height=120&section=footer"/>
 
