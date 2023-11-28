@@ -19,7 +19,7 @@
   <img align="center" src"https://img.shields.io/badge/C-CD3213?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-CD3213?style=for-the-badge&logo=postgresql&logoColor=white">
   
-</div>
+</div><br>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=graxyzr&bg_color=0d1117&color=CD3213&line=CD3213&point=CD3213&area=true&hide_border=true)
 
