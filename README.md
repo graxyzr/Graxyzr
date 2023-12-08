@@ -1,6 +1,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CD3213&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD3213&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<2/4>)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD3213&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<3/4>)](https://git.io/typing-svg)
   
 <br>
   
