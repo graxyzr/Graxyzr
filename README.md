@@ -18,6 +18,7 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-CD3213?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" src"https://img.shields.io/badge/C-CD3213?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-CD3213?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/PHP-CD3213?style=for-the-badge&logo=php&logoColor=white">
   
 </div><br>
 
