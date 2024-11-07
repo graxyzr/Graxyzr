@@ -20,9 +20,11 @@
   <br><br>
   <img align="center" src="https://img.shields.io/badge/PHP-09516F?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-09516F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-09516F?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Laravel-09516F?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Node.js-09516F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Sequelize-09516F?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Prisma-09516F?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/React-09516F?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 </div><br>
 
