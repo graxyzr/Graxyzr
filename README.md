@@ -20,6 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/React-09516F?style=for-the-badge&logo=react&logoColor=61DAFB">
   <br><br>
   <img align="center" src="https://img.shields.io/badge/PHP-09516F?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Python-09516F?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-09516F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Node.js-09516F?style=for-the-badge&logo=node.js&logoColor=white">
   <br><br>
