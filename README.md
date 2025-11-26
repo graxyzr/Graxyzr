@@ -6,7 +6,6 @@
   
   <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=graxyzr&show_icons=true&count_private=true&hide_border=true&title_color=09516F&icon_color=09516F&text_color=c9d1d9&bg_color=00000000" alt="graxyzr github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=09516F&text_color=09516F&bg_color=00000000" />
   
   </div>
