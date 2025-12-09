@@ -3,12 +3,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09516F&size=35&center=true&vCenter=true&width=1000&lines=IFRS+-+Informática+para+Internet+<4/4>)](https://git.io/typing-svg)
   
 <br>
-  
-  <div align="center">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graxyzr&layout=compact&hide_border=true&title_color=09516F&text_color=09516F&bg_color=00000000" />
-  
-  </div>
 
 <div align="center" valign="top"><br>
 
